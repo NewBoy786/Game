@@ -31,4 +31,4 @@ while True:
     bot_response = chat_with_bot(chat_history)
 
     print("Bot:", bot_response)
-
+    print("Bot:", bot_response)
